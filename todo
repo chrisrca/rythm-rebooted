@@ -1,0 +1,24 @@
+Add commands:
+  ☑ play - plays a song with the given name or url
+  ☑ disconnect - disconnect the bot from the voice channel it is in
+  ☑ np - shows what song the bot is currently playing
+  ☐ skip - skips the current playing song
+  ☐ seek - seeks to a certain point in the current track
+  ☐ remove - removes a certain entry from the queue
+  ☐ loopqueue - loops the whole queue
+  ☑ search - searches youtube for the top five results of a url
+  ☐ stats - shows stats of the bot
+  ☐ loop - loops the currently playing song
+  ☑ join - summons the bot to your channel
+  ☑ resume - resume paused music
+  ☐ settings - change rythms settings
+  ☐ move - moves a certain song to the first position in the queue of to a chosen position
+  ☐ skipto - skips to a certain position in the queue
+  ☐ clear - clears the queue
+  ☐ replay - reset the progress of the current song
+  ☑ pause - pause the currently playing track
+  ☐ removedupes - removes duplicate songs from the queue
+  ☑ volume - check or change the current volume
+  ☐ playskip - adds a song to the top of the queue then skips to it
+  ☐ shuffle - shuffles the queue
+  ☐ queue - view the queue. to view different pages type the command with the specified page number after it (queue 2)
